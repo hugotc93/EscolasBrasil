@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824142198788",
+    "firebase_url": "https://escolasbrasil-9e6c6.firebaseio.com",
+    "project_id": "escolasbrasil-9e6c6",
+    "storage_bucket": "escolasbrasil-9e6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824142198788:android:ad0c821d6c5f4db6",
+        "android_client_info": {
+          "package_name": "br.iesb.escolasbrasil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824142198788-2m43hsej91bhhqsss0r2e3srotg996pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.iesb.escolasbrasil",
+            "certificate_hash": "b9e06a25bd7dc35f51328c5de5d0637b3d021955"
+          }
+        },
+        {
+          "client_id": "824142198788-5fdqmuojsm2rfm2ra2oicibicsbo6jvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiSPzs93anSV-z3h9hKLdi4gIGL8lf8XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824142198788-5fdqmuojsm2rfm2ra2oicibicsbo6jvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
