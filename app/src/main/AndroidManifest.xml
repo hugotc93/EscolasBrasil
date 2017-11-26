@@ -35,6 +35,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Cadastro" />
+        <activity android:name=".BoasVindas" />
         <activity android:name=".MapaActivity"></activity>
 
         <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyArwIqxwxmYvN7efzFT727ZUEoagY7Wldg"/>

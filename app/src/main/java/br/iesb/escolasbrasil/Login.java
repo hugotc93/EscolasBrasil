@@ -46,7 +46,7 @@ public class Login extends AppCompatActivity {
                             @Override
                             public void onComplete(@NonNull Task<AuthResult> task) {
                                 if (task.isSuccessful()) {
-                                    Intent it = new Intent(Login.this, MainActivity.class);
+                                    Intent it = new Intent(Login.this, BoasVindas.class);
                                     startActivity(it);
                                 } else {/*COLOCAR MENSAGEM DE ERRO QUANDO SENHA OU EMAIL ESTIVER INCORRETO*/}
                             }
